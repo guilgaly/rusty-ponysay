@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "ponysay_lib",
+    "ponysay_web",
+    "ponysay_cli",
+]
